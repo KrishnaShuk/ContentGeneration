@@ -5,7 +5,7 @@ export default function Home() {
   return (
    <div>
     <h2>Hello</h2>
-    <Button>Subscribe</Button>
+    <Button>Subscrib</Button>
    </div>
   );
 }
